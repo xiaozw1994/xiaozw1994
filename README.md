@@ -1,13 +1,6 @@
-### Hi, I'm Zhiwen Xiao (肖智文) 👋
 
 
 
-
-
-
-
-
-Ph.D. Candidate in Computer Science at Southwest Jiaotong University, **World's Top 2% Scientists** (Stanford University Annual List), recipient of the **Si Shi Yang Hua Medal** (the highest student honor of Southwest Jiaotong University), and two-time winner of the **National Scholarship for Doctoral Students** (the highest national honor for Ph.D. students in China).
 
 My research focuses on **multivariate time series analysis, cross-domain sequential modeling, time series foundation models, and embodied intelligence in wearable scenarios**, with in-depth work on state space models (Mamba/SSM), knowledge-aware deep learning, federated learning, and semi-supervised learning for temporal data.
 

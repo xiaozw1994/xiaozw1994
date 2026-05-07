@@ -1,7 +1,3 @@
-
-
-
-
 My research focuses on **multivariate time series analysis, cross-domain sequential modeling, time series foundation models, and embodied intelligence in wearable scenarios**, with in-depth work on state space models (Mamba/SSM), knowledge-aware deep learning, federated learning, and semi-supervised learning for temporal data.
 
 ---
@@ -14,6 +10,6 @@ My research focuses on **multivariate time series analysis, cross-domain sequent
 | 2024 & 2025 | **National Scholarship for Doctoral Students** (Two consecutive years) |
 | 2025 | **Si Shi Yang Hua Medal** (Southwest Jiaotong University's highest student honor, the first graduate winner in the School of Computer Science) |
 | 2026 | Outstanding Student Paper Award of Sichuan Computer Society (Only 3 papers selected in the province) |
-| 2025 | China Moutai · National Pillar Excellence Program (Only 1 Ph.D. student selected in the university) |
+| 2025 | China Moutai · National Pillar Excellence Program  |
 | 2024 & 2025 | Outstanding Reviewer, IEEE Transactions on Instrumentation and Measurement |
 
